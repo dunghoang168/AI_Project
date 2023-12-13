@@ -1,0 +1,1 @@
+python -m llama_cpp.server --model "./models/mistral-7b-openorca.Q2_K.gguf" --chat_format chatml --n_gpu_layers 1
